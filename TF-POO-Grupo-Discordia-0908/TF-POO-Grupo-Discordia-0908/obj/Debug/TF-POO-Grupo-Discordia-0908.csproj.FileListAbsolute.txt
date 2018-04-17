@@ -1,0 +1,9 @@
+C:\Users\josue\Desktop\Estudio\ASP.NET\TF-POO-Grupo-Discordia-0908\TF-POO-Grupo-Discordia-0908\bin\Debug\TF-POO-Grupo-Discordia-0908.exe.config
+C:\Users\josue\Desktop\Estudio\ASP.NET\TF-POO-Grupo-Discordia-0908\TF-POO-Grupo-Discordia-0908\bin\Debug\TF-POO-Grupo-Discordia-0908.exe
+C:\Users\josue\Desktop\Estudio\ASP.NET\TF-POO-Grupo-Discordia-0908\TF-POO-Grupo-Discordia-0908\bin\Debug\TF-POO-Grupo-Discordia-0908.pdb
+C:\Users\josue\Desktop\Estudio\ASP.NET\TF-POO-Grupo-Discordia-0908\TF-POO-Grupo-Discordia-0908\obj\Debug\TF-POO-Grupo-Discordia-0908.csprojResolveAssemblyReference.cache
+C:\Users\josue\Desktop\Estudio\ASP.NET\TF-POO-Grupo-Discordia-0908\TF-POO-Grupo-Discordia-0908\obj\Debug\TF_POO_Grupo_Discordia_0908.Frm1.resources
+C:\Users\josue\Desktop\Estudio\ASP.NET\TF-POO-Grupo-Discordia-0908\TF-POO-Grupo-Discordia-0908\obj\Debug\TF_POO_Grupo_Discordia_0908.Properties.Resources.resources
+C:\Users\josue\Desktop\Estudio\ASP.NET\TF-POO-Grupo-Discordia-0908\TF-POO-Grupo-Discordia-0908\obj\Debug\TF-POO-Grupo-Discordia-0908.csproj.GenerateResource.Cache
+C:\Users\josue\Desktop\Estudio\ASP.NET\TF-POO-Grupo-Discordia-0908\TF-POO-Grupo-Discordia-0908\obj\Debug\TF-POO-Grupo-Discordia-0908.exe
+C:\Users\josue\Desktop\Estudio\ASP.NET\TF-POO-Grupo-Discordia-0908\TF-POO-Grupo-Discordia-0908\obj\Debug\TF-POO-Grupo-Discordia-0908.pdb
